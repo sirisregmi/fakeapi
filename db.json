@@ -1,0 +1,23 @@
+{
+  "outlets": [
+    {
+        "id": 1,
+        "name": "pizza connect",
+	"outletUri":"https://foodmandu.com/Images/Vendor/852/Logo/web_051119080321.logo.newrelease.pizza_connect.jpg"
+    },
+   {
+        "id": 2,
+        "name": "ghagari",
+	"outletUri":"https://foodmandu.com/Images/Vendor/233/Logo/11391271_918749361499502_6002546851043252756_n_071117103011.jpg"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
+
+
+
+
+
+
