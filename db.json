@@ -3,13 +3,17 @@
 		{
 		        "id": 1,
         		"username": "sirisregmi",
-			"password":"password"
+			"firstname":"siris",
+			"lastname":"regmi",
+			"token":"password"
     		},
    		{
 		        "id": 2,
         		"username": "advikregmi",
-			"password":"password"
+			"firstname":"siris",
+			"lastname":"regmi",
+			"token":"password"
     		}
 		]
 }
- 
+  
